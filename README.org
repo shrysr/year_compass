@@ -1,8 +1,15 @@
 * Introduction
 
-This is a conversion of the [[https://yearcompass.com/][year compass booklet]] into a text based markup that allows several possibilities. For one thing, the text based format allows a version control, and it becomes possible to use your favorite text editor to fill in the details. For verbose material like this, such considerations become important. This approach also makes it possible to deploy the content onto a webpage that can always be accessible for reference, or a blog post etc.
+This is a conversion of the [[https://yearcompass.com/][year compass booklet]] into a text based markup. PDF versions of the booklet are available for download, but a text based version allows several other possibilities.
 
-The template is stored in the org file [[file:template.org][template.org]]. In my case, the actual content for each year will be stored in the Readme. I maintain my information in a private repository.
+For one thing, the text based format allows a version control, and it becomes possible to use your favorite text editor to fill in the details. For verbose material like this, such considerations become important. This approach also makes it possible to deploy the content onto a webpage that can always be accessible for reference, or a blog post etc.
+
+Methodology: copied the contents of the PDF template, and re-organised it into a hierarchical org and markdown format.
+
+- The template is stored in the org file [[file:template.org][template.org]], and a markdown version [[file:template.md][template.md]] is also available for non-Emacs users.
+- The fill-able [[file:YearCompass_booklet_en_us_A4_fillable.pdf][A4 PDF version of the booklet]] is placed in the repo for ready reference.
+
+/In my workflow, the actual content for each year will be stored in the Readme under a top level headline and the details are hosted in a private repository./
 
 
 * Year 2019 to 2020
